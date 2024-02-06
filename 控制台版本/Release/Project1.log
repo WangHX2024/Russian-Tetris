@@ -1,0 +1,15 @@
+﻿  FileName.c
+E:\C语言程序临时目录\Project1\FileName.c(23,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\C语言程序临时目录\Project1\FileName.c(134,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(138,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(140,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(142,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(144,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(154,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(156,10): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(167,12): warning C4129: “ ”: 不可识别的字符转义序列
+E:\C语言程序临时目录\Project1\FileName.c(180,7): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\C语言程序临时目录\Project1\FileName.c(182,13): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\C语言程序临时目录\Project1\FileName.c(302,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\C语言程序临时目录\Project1\FileName.c(304,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\C语言程序临时目录\Project1\FileName.c(331,6): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.

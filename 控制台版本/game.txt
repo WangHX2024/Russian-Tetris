@@ -1,0 +1,17 @@
+round:1		mode:1		score:10
+round:2		mode:1		score:30
+round:3		mode:1		score:10
+round:4		mode:1		score:50
+round:5		mode:1		score:1540
+round:6		mode:1		score:30
+round:7		mode:1		score:2590
+round:8		mode:3		score:10
+round:9		mode:3		score:0
+round:10		mode:1		score:10
+round:11		mode:1		score:1284
+round:12		mode:1		score:2390
+round:13		mode:1		score:1740
+round:14		mode:3		score:550
+round:15		mode:1		score:760
+round:16		mode:1		score:720
+round:17		mode:1		score:2460

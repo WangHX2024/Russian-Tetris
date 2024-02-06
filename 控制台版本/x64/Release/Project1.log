@@ -1,0 +1,13 @@
+﻿  FileName.c
+E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\FileName.c(65,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\FileName.c(100,2): warning C4013: “_getch”未定义；假设外部返回 int
+E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\FileName.c(113,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\FileName.c(349,6): warning C4013: “_kbhit”未定义；假设外部返回 int
+E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\FileName.c(388,2): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\FileName.c(389,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码
+  22 of 24 functions (91.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> E:\2023-2024学年秋冬学期\程算\俄罗斯方块\控制台版本\x64\Release\Project1.exe
